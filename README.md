@@ -1,2 +1,2 @@
-# certifications
-This repository includes all my certifications
+# Certifications
+Repository to track all my certifications
